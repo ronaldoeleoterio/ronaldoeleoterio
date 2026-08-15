@@ -36,4 +36,4 @@ My main focus is developing solutions based on real business problems, combining
 
 ### Connect with me
 
-[LinkedIn](SEU_LINKEDIN_AQUI)
+[LinkedIn](https://www.linkedin.com/in/ronaldoeleoterio/)
