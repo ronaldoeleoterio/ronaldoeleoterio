@@ -1,16 +1,39 @@
-## Hi there 👋
+# Ronaldo Eleoterio
 
-<!--
-**ronaldoeleoterio/ronaldoeleoterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Mechanical Engineer
 
-Here are some ideas to get you started:
+I am a Mechanical Engineer transitioning into Software Engineering, currently pursuing a degree in Software Engineering at USP/Esalq.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My professional background includes experience in maintenance planning, supervision, project development, process management and problem solving in engineering environments.
+
+Currently, I am focused on developing my skills in software development and applying software engineering principles to real-world projects.
+
+### Currently learning
+
+* Software Engineering
+* Full Stack Development
+* JavaScript / TypeScript
+* React
+* Node.js
+* REST APIs
+* PostgreSQL
+* Docker
+* Software Architecture
+* Clean Code and software engineering practices
+
+### Projects
+
+I am building practical projects to apply what I learn throughout my transition into Software Engineering.
+
+My main focus is developing solutions based on real business problems, combining software development with my previous experience in engineering and process management.
+
+### Background
+
+* Software Engineering — USP/Esalq
+* Mechanical Engineering — Universidade Braz Cubas
+* Experience in Maintenance Planning and Supervision
+* Experience with engineering projects and process management
+
+### Connect with me
+
+[LinkedIn](SEU_LINKEDIN_AQUI)
