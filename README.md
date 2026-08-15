@@ -17,9 +17,9 @@ Clean Code
 
 ### Technologies
 
-Python
-JavaScript
-PostgreSQL
+Python<p>
+JavaScript<p>
+PostgreSQL<p>
 Docker
 
 ### Projects
