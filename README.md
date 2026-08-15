@@ -8,18 +8,21 @@ My professional background includes experience in maintenance planning, supervis
 
 Currently, I am focused on developing my skills in software development and applying software engineering principles to real-world projects.
 
-### Currently learning
+###Currently studying
 
-* Software Engineering
-* Full Stack Development
-* JavaScript / TypeScript
-* React
-* Node.js
-* REST APIs
-* PostgreSQL
-* Docker
-* Software Architecture
-* Clean Code and software engineering practices
+Software Engineering
+Full Stack Development
+Software Architecture
+Clean Code
+
+###Technologies
+
+JavaScript
+TypeScript
+React
+Node.js
+PostgreSQL
+Docker
 
 ### Projects
 
